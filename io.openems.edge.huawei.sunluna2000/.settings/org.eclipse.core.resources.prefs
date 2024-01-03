@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/io/openems/edge/huawei/sunluna2000/Config.java=UTF-8
+encoding//src/io/openems/edge/huawei/sunluna2000/Sunluna2000.java=UTF-8
+encoding//src/io/openems/edge/huawei/sunluna2000/Sunluna2000Impl.java=UTF-8
+encoding//test/io/openems/edge/huawei/sunluna2000/MyConfig.java=UTF-8
+encoding//test/io/openems/edge/huawei/sunluna2000/MyModbusDeviceTest.java=UTF-8
+encoding/<project>=UTF-8
+encoding/bnd.bnd=UTF-8
+encoding/readme.adoc=UTF-8
